@@ -11,7 +11,7 @@ HTML5
 CSS3
 
 📸 Screenshots
-
+https://github.com/alhadwan/JavaScript_Dice_Game/blob/main/diceGame.png
 
 
 📖 Features
