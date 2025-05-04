@@ -1,25 +1,20 @@
-# JavaScript_Dice_Game
-Using Javascript and DOM to Create a Dice Game
+# Dice Game
+2-player dice game built with HTML, CSS, and JavaScript. the Players enter their names and the game declares a winner based on which dice rolls higher.
 
-📌 Project Name: Dice Game
+# Features
+- players can enter thier names for a personalized experience
+- Roll two dice and determine a winner (Player 1 or Player 2)
+- “Roll Dice” button to replay
+- Input validation to ensure names are entered before rolling
 
-🎲 A fun, interactive Dice Game built using JavaScript, HTML, and CSS.
+# Tech Stack
+- JavaScript
+- HTML5
+- CSS3
 
-🛠️ Tech Stack
-JavaScript (ES6)
-HTML5
-CSS3
-
-📸 Screenshots
-https://github.com/alhadwan/JavaScript_Dice_Game/blob/main/diceGame.png
-
-
-📖 Features
-✅ Random dice roll for two players
-✅ Dynamic DOM manipulation
-✅ Responsive design with CSS styling
-✅ Displays a winner based on dice rolls
-
-
-🙌 Acknowledgments
-Thanks to Angela Yu's Web Development Bootcamp for the project inspiration! 
+# How To Paly
+- Open `dicee.html` in a browser
+- Enter both player names in the input fields
+- Click the “Roll” button
+- Watch both dice roll and see who wins
+- Repeat to play again and again
