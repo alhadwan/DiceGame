@@ -1,6 +1,8 @@
 # Dice Game
 2-player dice game built with HTML, CSS, and JavaScript. the Players enter their names and the game declares a winner based on which dice rolls higher.
 
+Live Demo: https://alhadwan.github.io/DiceGame/
+
 # Features
 - players can enter thier names for a personalized experience
 - Roll two dice and determine a winner (Player 1 or Player 2)
