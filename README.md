@@ -13,7 +13,7 @@
 - CSS3
 
 # How To Paly
-- Open `dicee.html` in a browser
+- Open `index.html` in a browser
 - Enter both player names in the input fields
 - Click the “Roll” button
 - Watch both dice roll and see who wins
